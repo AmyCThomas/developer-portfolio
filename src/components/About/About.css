@@ -42,19 +42,19 @@
     align-items: flex-start;
     justify-content: space-evenly;
     flex: 0.5;
-    width: 100%;
     height: fit-content;
+    overflow:hidden;
 }
 
 .about-description >h2 {
     margin-bottom: 40px;
-    font-size: 3.5rem;
+    font-size: 3.25rem;
     font-family: var(--primaryFont);
 }
 
 .about-description > p {
     font-size: 1.25rem;
-    color: #e0d9d9;
+    color: #474747;
     font-family: var(--primaryFont);
 }
 

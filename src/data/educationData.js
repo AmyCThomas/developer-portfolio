@@ -1,23 +1,17 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Ramjas College, Delhi University',
-        course: 'B.A. Honours History',
-        startYear: '2015',
-        endYear: '2018'
+        institution: 'Code Platoon',
+        course: 'Full-stack software development',
+        startYear: 'Jan 2022',
+        endYear: 'May 2022'
     },
     {
         id: 2,
-        institution: 'Delhi University',
-        course: 'M.A. History',
-        startYear: '2019',
-        endYear: '2021'
+        institution: 'CSU Pueblo',
+        course: 'General Studies',
+        startYear: '2003',
+        endYear: '2005'
     },
-    {
-        id: 3,
-        institution: 'Masai School of Coding',
-        course: 'Fullstack Web-Development',
-        startYear: '2021',
-        endYear: 'Present'
-    },
+
 ]
